@@ -1,0 +1,17 @@
+.voting-summary-panel {
+    &__tables-container {
+        display: flex;
+        justify-content: space-around;
+        margin-top: 80px;
+
+        table, th, td {
+            border: 1px solid black;
+            border-collapse: collapse;
+          }
+    }
+
+    &__candidates-table {
+        
+    }
+}
+
